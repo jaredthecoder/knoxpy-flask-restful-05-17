@@ -1,0 +1,3 @@
+Title: Building REST APIs with Flask and Flask-RESTful
+
+Description: The Flask framework for Python makes not only website development simple, but also makes building REST (Representational State Tranfer) APIs painless as well. In this talk, we will explore how you can apply the principles of Flask and Python to building REST APIs, including building a simple API with Flask-RESTful, a REST framework for Flask.
